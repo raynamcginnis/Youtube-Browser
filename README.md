@@ -1,24 +1,16 @@
-# youtube-browser
+# Overview
+This Vue.js application is a Youtube browser that allows you to pull up the first five items in a Youtube search and then play each one in the video player. It utilizes Vue CLI, Axios, Youtube API V3 and Bootstrap.
 
-## Project setup
-```
-npm install
-```
+## Technologies Included: 
+- Vue.js
+- JavaScript
+- HTML
+- CSS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Integrations
+- Axios
+- Youtube API V3
+- Bootstrap
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Get Started
+Use npm run serve to start development server.
